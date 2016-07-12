@@ -1,5 +1,4 @@
-dog
-person
-cat
-tv
-car
+treble_clef
+bass_clef
+flat
+sharp
