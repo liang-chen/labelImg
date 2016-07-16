@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>music</folder>
+	<filename>28_05</filename>
+	<path>/Users/Hipapa/Projects/Git/labelImg/music/28_05.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>treble_clef</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>17</ymin>
+			<xmax>91</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

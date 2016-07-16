@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>music</folder>
+	<filename>33_06</filename>
+	<path>/Users/Hipapa/Projects/Git/labelImg/music/33_06.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bass_clef</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>49</ymin>
+			<xmax>90</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>
